@@ -1,0 +1,5 @@
+## Requirements
+
+* selenium
+* pandas
+* streamlit
